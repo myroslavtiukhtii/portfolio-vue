@@ -1,0 +1,1 @@
+import{_ as e,f as s,g as t,k as c}from"./index-57f3db5b.js";const a={},o={class:"projects__vue"},_=c("h1",null,"This is an Vanilla JS pages",-1),n=[_];function r(i,l){return s(),t("div",o,n)}const f=e(a,[["render",r]]);export{f as default};
